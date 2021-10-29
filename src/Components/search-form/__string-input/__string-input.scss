@@ -1,0 +1,9 @@
+.search-form__string-input {
+  border: none;/*0px solid rgba(0, 0, 0, 0);*/
+  width: 100%;
+  margin-right: 10px
+}
+
+.search-form__string-input:focus {
+  outline: none;/*0px solid rgba(0, 0, 0, 0);*/
+}

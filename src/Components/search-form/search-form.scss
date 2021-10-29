@@ -1,0 +1,11 @@
+.search-form {
+  display: flex;
+  flex-flow: row no-wrap;
+  justify-content: space-between;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  min-width: 500px;
+}
+
+@import './__string-input/_string-input';
